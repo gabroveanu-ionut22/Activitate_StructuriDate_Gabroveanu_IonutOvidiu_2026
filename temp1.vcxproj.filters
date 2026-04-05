@@ -18,6 +18,9 @@
     <ClCompile Include="gara.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cofetarie.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
