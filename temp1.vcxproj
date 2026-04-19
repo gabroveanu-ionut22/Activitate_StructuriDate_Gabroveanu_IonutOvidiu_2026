@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="cofetarie.c" />
     <ClCompile Include="gara.c" />
+    <ClCompile Include="stiva.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
