@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="benzinarie.c" />
     <ClCompile Include="cafenea.c" />
     <ClCompile Include="cofetarie.c" />
     <ClCompile Include="gara.c" />
