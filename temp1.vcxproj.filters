@@ -36,6 +36,9 @@
     <ClCompile Include="Hotel_Graf.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="carti.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />

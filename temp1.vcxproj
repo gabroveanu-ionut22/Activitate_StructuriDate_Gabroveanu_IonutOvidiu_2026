@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="benzinarie.c" />
     <ClCompile Include="cafenea.c" />
+    <ClCompile Include="carti.c" />
     <ClCompile Include="cofetarie.c" />
     <ClCompile Include="gara.c" />
     <ClCompile Include="Hotel_Graf.c" />
